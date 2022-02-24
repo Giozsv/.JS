@@ -1,20 +1,20 @@
-//MANIPULANDO ARQUIVOS
+ //MANIPULANDO ARQUIVOS
 
-// //var preco = 2;
-// var desconto = 0.2;
-// const PRECO = 2;
-// var total = PRECO - desconto;
+// // //var preco = 2;
+// // var desconto = 0.2;
+// // const PRECO = 2;
+// // var total = PRECO - desconto;
 
-// //FUNÇOES
+// // //FUNÇOES
 
-// function soma(a, b) {
-//   console.log(a + b);       //verificar se funciona
-//    return a + b;           //retornar valor da funçao
-// }
+// // function soma(a, b) {
+// //   console.log(a + b);       //verificar se funciona
+// //    return a + b;           //retornar valor da funçao
+// // }
 
-// soma(3, 5);  //8
+// // soma(3, 5);  //8
 
-// console.log("Hello world!");
+// // console.log("Hello world!");
 
 function returnEvenValues(){  //retornar  nº pares
   let evenNums = [];
